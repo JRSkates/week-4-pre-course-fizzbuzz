@@ -1,3 +1,3 @@
 def fizzbuzz(number)
-#nil
+    'fizz'
 end
